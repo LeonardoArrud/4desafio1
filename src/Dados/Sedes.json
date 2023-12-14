@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "nome": "Pátio Victor Malzoni",
+        "endereco": "Av. Brig. Faria Lima, 3477 - Itaim Bibi, São Paulo - SP, 04538-133",
+        "imagem": "../Img/btg.jpg"
+
+    },
+    {
+        "id": 2,
+        "nome": "BS TOWER",
+        "endereco": "R. Gonçalves Lêdo, 777 - Praia de Iracema, Fortaleza - CE, 60110-260",
+        "imagem": "../Img/bs.jpg"
+    }
+]

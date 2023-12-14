@@ -1,0 +1,65 @@
+.sobren{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+#titulo{
+    font-family: poppinsB;
+    font-size: 4em;
+    padding: 55px;
+    color: blue;
+}
+.hist{
+   width: 100%;
+    
+    margin: 35px;
+}
+.deta{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.sobb{
+    margin: 20px;
+    
+}
+#hist h1{
+    color: white;
+}
+.bra{
+    color: white;
+}
+.p{
+    font-family: poppinsR;
+}
+h1{
+    font-family: poppinsB;
+
+}
+.textos{
+width: 80vh;
+}
+.boas{
+    display: flex;
+    align-self: center;
+    justify-self: center;
+    flex-direction: row;
+    padding: 35px;
+}
+#cafe h1,p{
+    color: white;
+}
+#reuni h1{
+    color: white;
+}
+.pe{
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin: 20px;
+}
+#reuni{
+    flex-direction: row-reverse; 
+}

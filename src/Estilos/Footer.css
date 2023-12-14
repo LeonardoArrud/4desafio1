@@ -1,0 +1,49 @@
+footer{
+    background-color:white;
+    text-align: center;
+}
+.roda{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 20px;
+}
+.infos{
+    display: flex;
+    flex-direction: row;
+    
+}
+.text{
+    color: blue;
+}
+.text h1{
+    font-family: poppinsB;
+    font-size: 2em;
+}
+.text p{
+    font-family: poppinsR;
+    color: blue;
+}
+.infos h2{
+    padding: 10px;
+    color: blue;
+    cursor: pointer;
+    font-family: poppinsB;
+}
+.infos h2:hover{
+    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0);
+    transform: scale(1.05);
+}
+.text{
+    margin-right: 20px;
+}
+.redes svg{
+    font-size: 2em;
+    padding: 10px;
+    color: blue;
+}
+.redes svg:hover{
+    box-shadow: 0px 0px 8px rgba(255, 255, 255, 0);
+    transform: scale(1.05);
+    cursor: pointer;
+}
